@@ -1,9 +1,4 @@
-# FullCalendar-BS3-PHP-MySQL
-FullCalendar 2 integration with bootstrap, php and mysql
+# Projeto de Postagens de Eventos
+Esta é a primeira versão do projeto, que visa fazer <b>integração com perfis de usuários de determinadas redes sociais</b>, integrando e compartilhando datas de eventos, permitindo exposição de demais informações desses eventos contando com o <b >feedback de demais membros que participam dessa plataforma.</b>
 
-## DEMO and Installtion
-[demo](http://jamelbaz.com/non-classe/integration-de-fullcalendar2-php-mysql).
 
-## License
-
-MIT
